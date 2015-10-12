@@ -1,0 +1,18 @@
+1. Chromosome Representation
+Merepresentasikan cromosom pada masing-masing document, terhadap sebuah queri. 
+jika sebuah kata dalam query terdapat pada document maka bernilai 1 jika tidak maka bernilai 0.
+
+doc1 = banana, apple, coconut, blueberry.
+doc2 = pineaples, grape, banana, apple.
+doc3 = duren, banana, kurma, coconut.
+
+query = banana, apple, coconut
+query = 111 
+
+maka chromosome masing docs terhapad query adalah :
+
+doc1 = 111
+doc2 = 110
+doc3 = 101
+
+2. Fitnes Evaluation
