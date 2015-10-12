@@ -107,7 +107,7 @@ for ($i = 0; $i < count($docView->Docs()); $i++) {
 }
 
 /**
- * Mahalahnya disini mastah :v
+ * Masalahnya disini mastah :v
  */
 echo '<h2>Testing chromosome represntation</h2>';
 $chromosome = [];
